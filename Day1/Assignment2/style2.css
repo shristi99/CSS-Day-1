@@ -1,0 +1,35 @@
+.box{
+    border: 1px solid grey;
+    width: 350px;
+    border-radius: 10px;
+    margin: 100px auto;
+    padding-left: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Googlehead{
+    font-size: 25px;
+}
+
+.paragraph{
+    color: grey;
+}
+
+img{
+    width: 55px;
+    height: 55px;
+    padding: 25px;
+    border-radius: 50%;
+}
+
+.footer{
+    border-top: 1px solid grey;
+    margin-left: -20px;
+}
+
+.footerp{
+    margin-left: 20px;
+    color:#478cec;
+    /* font-weight: 500; */
+
+}

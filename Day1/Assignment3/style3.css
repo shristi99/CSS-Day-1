@@ -1,0 +1,50 @@
+.box-model{
+    border: 1px solid lightgrey;
+    margin: 100px auto;
+  
+    width: 250px;
+    border-radius:10px ;
+}
+
+.details{
+    padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.head-p{
+    font-size: 12px;
+    font-family: 500;
+    color: grey;
+}
+
+
+.bold-p{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+.paragraph-1{
+    font-size: 12px;
+    color: grey;
+}
+
+.btn{
+    background: transparent;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    color:#478cec;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
