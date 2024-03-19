@@ -1,1 +1,1 @@
-Adding my learning of CSS 
+Adding my learnings of CSS 
